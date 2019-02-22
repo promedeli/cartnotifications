@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/views/js/cartnotifications.js
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+.DS_Store
