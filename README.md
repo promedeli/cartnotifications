@@ -1,4 +1,5 @@
 # Cart notifications
+![screenshots](http://promedeli.com/img/cn.png)
 
 This is prestashop module for displaying dynamic, actionable messages in cart, product page or category page.
 
@@ -29,7 +30,7 @@ To run unit test just execute phpunit
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. 
 
 ## Authors
 
@@ -37,4 +38,5 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
+
